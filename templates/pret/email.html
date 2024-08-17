@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email de Confirmation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            margin: 10px 0;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 0.8em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Email de Confirmation</h1>
+        <strong>Date: {{ date }}</strong><br>
+        <strong>Votre email: {{ email }}</strong>
+        <h1>Bonjour <strong>{{ nom }}</strong>,</h1>
+
+        <p>Merci d'avoir soumis votre demande de prêt ! Nous avons bien reçu toutes les informations nécessaires pour traiter votre demande.</p>
+
+        <p>Nous vous confirmons que votre demande est en cours de traitement.</p>
+
+        <p>Notre équipe examine actuellement votre demande et vous contactera dans les plus brefs délais pour vous fournir plus d'informations et les prochaines étapes à suivre.</p>
+
+        <p>Nous vous remercions pour votre confiance et restons à votre disposition pour toute question supplémentaire.</p>
+
+        <p>Cordialement,</p>
+        <p>L'équipe de Credis Bank</p>
+
+    </div>
+</body>
+</html>
+

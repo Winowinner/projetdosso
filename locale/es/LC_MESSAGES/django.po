@@ -1,0 +1,728 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-15 20:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+
+#: banque/settings.py:118
+msgid "Allemand"
+msgstr "Alemán"
+
+#: banque/settings.py:119
+msgid "Anglais"
+msgstr "Inglés"
+
+#: banque/settings.py:120
+msgid "Espagnol"
+msgstr "Español"
+
+#: banque/settings.py:121
+msgid "Français"
+msgstr "Francés"
+
+#: banque/settings.py:122
+msgid "Letton"
+msgstr "Letón"
+
+#: banque/settings.py:123
+msgid "Lituanien"
+msgstr "Lituano"
+
+#: banque/settings.py:124
+msgid "Portugais"
+msgstr "Portugués"
+
+#: banque/settings.py:125
+msgid "Roumain"
+msgstr "Rumano"
+
+#: banque/settings.py:126
+msgid "Slovaque"
+msgstr "Eslovaco"
+
+#: banque/settings.py:127
+msgid "Slovène"
+msgstr "Esloveno"
+
+#: pret/views.py:8
+msgid "welcome"
+msgstr "bienvenida"
+
+#: templates/pret/FAQ.html:56 templates/pret/FAQ.html:300
+#: templates/pret/about.html:56 templates/pret/about.html:368
+#: templates/pret/contact.html:56 templates/pret/contact.html:293
+#: templates/pret/index.html:56 templates/pret/index.html:542
+#: templates/pret/pret.html:56 templates/pret/pret.html:352
+#: templates/pret/service.html:56 templates/pret/service.html:507
+#: templates/pret/testimonial.html:56 templates/pret/testimonial.html:249
+msgid "12 Avenue de l'Opéra, 75001 Paris, France"
+msgstr "12 Avenida de la Ópera, 75001 París, Francia"
+
+#: templates/pret/FAQ.html:70 templates/pret/about.html:70
+#: templates/pret/contact.html:70 templates/pret/index.html:70
+#: templates/pret/pret.html:70 templates/pret/service.html:70
+#: templates/pret/testimonial.html:70
+msgid "Langue"
+msgstr "Idioma"
+
+#: templates/pret/FAQ.html:97 templates/pret/FAQ.html:133
+#: templates/pret/FAQ.html:224 templates/pret/about.html:97
+#: templates/pret/about.html:135 templates/pret/about.html:292
+#: templates/pret/contact.html:97 templates/pret/contact.html:217
+#: templates/pret/index.html:97 templates/pret/index.html:466
+#: templates/pret/pret.html:97 templates/pret/pret.html:134
+#: templates/pret/pret.html:276 templates/pret/service.html:97
+#: templates/pret/service.html:135 templates/pret/service.html:431
+#: templates/pret/testimonial.html:97 templates/pret/testimonial.html:173
+msgid "Accueil"
+msgstr "Inicio"
+
+#: templates/pret/FAQ.html:98 templates/pret/FAQ.html:225
+#: templates/pret/about.html:98 templates/pret/about.html:133
+#: templates/pret/about.html:137 templates/pret/about.html:293
+#: templates/pret/contact.html:98 templates/pret/contact.html:218
+#: templates/pret/index.html:98 templates/pret/index.html:467
+#: templates/pret/pret.html:98 templates/pret/pret.html:277
+#: templates/pret/service.html:98 templates/pret/service.html:432
+#: templates/pret/testimonial.html:98 templates/pret/testimonial.html:174
+msgid "Infos"
+msgstr "Información"
+
+#: templates/pret/FAQ.html:99 templates/pret/FAQ.html:226
+#: templates/pret/about.html:99 templates/pret/about.html:294
+#: templates/pret/contact.html:99 templates/pret/contact.html:219
+#: templates/pret/index.html:99 templates/pret/index.html:468
+#: templates/pret/pret.html:99 templates/pret/pret.html:278
+#: templates/pret/service.html:99 templates/pret/service.html:133
+#: templates/pret/service.html:137 templates/pret/service.html:433
+#: templates/pret/testimonial.html:99 templates/pret/testimonial.html:175
+msgid "Services"
+msgstr "Servicios"
+
+#: templates/pret/FAQ.html:100 templates/pret/FAQ.html:135
+#: templates/pret/about.html:100 templates/pret/contact.html:100
+#: templates/pret/index.html:100 templates/pret/pret.html:100
+#: templates/pret/service.html:100 templates/pret/testimonial.html:100
+msgid "FAQs"
+msgstr "Preguntas Frecuentes"
+
+#: templates/pret/FAQ.html:101 templates/pret/FAQ.html:228
+#: templates/pret/about.html:101 templates/pret/about.html:296
+#: templates/pret/contact.html:101 templates/pret/contact.html:221
+#: templates/pret/index.html:101 templates/pret/index.html:470
+#: templates/pret/pret.html:101 templates/pret/pret.html:280
+#: templates/pret/service.html:101 templates/pret/service.html:435
+#: templates/pret/testimonial.html:101 templates/pret/testimonial.html:177
+msgid "Prêt"
+msgstr "Préstamo"
+
+#: templates/pret/FAQ.html:102 templates/pret/FAQ.html:229
+#: templates/pret/about.html:102 templates/pret/about.html:297
+#: templates/pret/contact.html:102 templates/pret/contact.html:222
+#: templates/pret/index.html:102 templates/pret/index.html:471
+#: templates/pret/pret.html:102 templates/pret/pret.html:281
+#: templates/pret/service.html:102 templates/pret/service.html:436
+#: templates/pret/testimonial.html:102 templates/pret/testimonial.html:178
+msgid "Contact"
+msgstr "Contacto"
+
+#: templates/pret/FAQ.html:104 templates/pret/about.html:104
+#: templates/pret/about.html:194 templates/pret/about.html:213
+#: templates/pret/contact.html:104 templates/pret/index.html:104
+#: templates/pret/index.html:222 templates/pret/index.html:243
+#: templates/pret/index.html:321 templates/pret/index.html:339
+#: templates/pret/index.html:357 templates/pret/index.html:375
+#: templates/pret/pret.html:104 templates/pret/service.html:104
+#: templates/pret/service.html:167 templates/pret/service.html:185
+#: templates/pret/service.html:203 templates/pret/service.html:221
+#: templates/pret/service.html:249 templates/pret/service.html:269
+#: templates/pret/service.html:288 templates/pret/service.html:307
+#: templates/pret/testimonial.html:104
+msgid "Demander un prêt"
+msgstr "Solicitar un préstamo"
+
+#: templates/pret/FAQ.html:117 templates/pret/about.html:117
+#: templates/pret/contact.html:117 templates/pret/index.html:117
+#: templates/pret/pret.html:117 templates/pret/service.html:117
+#: templates/pret/testimonial.html:117
+msgid "Whatsapp"
+msgstr "Whatsapp"
+
+#: templates/pret/FAQ.html:131 templates/pret/FAQ.html:150
+#: templates/pret/index.html:393
+msgid "Questions fréquentes"
+msgstr "Preguntas frecuentes"
+
+#: templates/pret/FAQ.html:134 templates/pret/about.html:136
+#: templates/pret/pret.html:135 templates/pret/service.html:136
+msgid "Pages"
+msgstr "Páginas"
+
+#: templates/pret/FAQ.html:156 templates/pret/index.html:399
+msgid "Combien de temps faut-il avant de recevoir l'argent sur mon compte ?"
+msgstr "¿Cuánto tiempo tarda en llegar el dinero a mi cuenta?"
+
+#: templates/pret/FAQ.html:161 templates/pret/index.html:404
+msgid ""
+"Si vous demandez un devis de prêt via credis-bank.com, vous aurez "
+"généralement l'argent sur votre compte courant dans un délai de deux jours "
+"ouvrés. Vous recevrez d'abord un contrat. Si vous êtes d'accord, signez le "
+"devis et téléchargez les documents demandés, comme une copie de votre "
+"passeport et votre fiche de salaire. Si nous approuvons vos documents, vous "
+"recevrez l'argent sur votre compte le jour même."
+msgstr ""
+"Si solicita un presupuesto de préstamo a través de credis-bank.com, "
+"generalmente tendrá el dinero en su cuenta corriente en un plazo de dos días "
+"hábiles. Primero recibirá un contrato. Si está de acuerdo, firme el "
+"presupuesto y cargue los documentos solicitados, como una copia de su "
+"pasaporte y su recibo de salario. Si aprobamos sus documentos, recibirá el "
+"dinero en su cuenta el mismo día."
+
+#: templates/pret/FAQ.html:168 templates/pret/index.html:411
+msgid "Comment calculez-vous le montant maximum que je peux emprunter ?"
+msgstr "¿Cómo calculan el monto máximo que puedo pedir prestado?"
+
+#: templates/pret/FAQ.html:173 templates/pret/index.html:416
+msgid ""
+"Nous pensons qu’il est important que vous empruntiez de manière responsable. "
+"Nous regardons donc vos revenus. Mais tenez également compte de vos frais "
+"fixes, comme un crédit immobilier ou votre loyer. De cette façon, nous "
+"pouvons estimer correctement votre limite de crédit."
+msgstr ""
+"Creemos que es importante que pida prestado de manera responsable. Por eso, "
+"analizamos sus ingresos. Pero también tenga en cuenta sus gastos fijos, como "
+"un crédito hipotecario o su alquiler. De esta manera, podemos estimar "
+"correctamente su límite de crédito."
+
+#: templates/pret/FAQ.html:180 templates/pret/index.html:423
+msgid "Quelles sont les conditions pour demander un prêt en ligne ?"
+msgstr "¿Cuáles son los requisitos para solicitar un préstamo en línea?"
+
+#: templates/pret/FAQ.html:185 templates/pret/index.html:428
+msgid ""
+"Désormais, toute personne de plus de 18 ans peut gagner de l’argent en ligne "
+"presque instantanément. Tout ce dont vous avez besoin est d’avoir accès à "
+"Internet, à un ordinateur ou à un téléphone portable, et votre demande de "
+"prêt sera soumise en ligne en quelques minutes."
+msgstr ""
+"Ahora, cualquier persona mayor de 18 años puede obtener dinero en línea casi "
+"instantáneamente. Solo necesita tener acceso a Internet, a una computadora o "
+"a un teléfono móvil, y su solicitud de préstamo se enviará en línea en pocos "
+"minutos."
+
+#: templates/pret/FAQ.html:214 templates/pret/about.html:282
+#: templates/pret/contact.html:207 templates/pret/index.html:456
+#: templates/pret/pret.html:266 templates/pret/service.html:421
+#: templates/pret/testimonial.html:163
+msgid ""
+"Nous proposons une large gamme de prêts, accessibles aux particuliers et aux "
+"entreprises. Demandez un prêt maintenant."
+msgstr ""
+"Ofrecemos una amplia gama de préstamos, disponibles para particulares y "
+"empresas. Solicite un préstamo ahora."
+
+#: templates/pret/FAQ.html:223 templates/pret/about.html:291
+#: templates/pret/contact.html:216 templates/pret/index.html:465
+#: templates/pret/pret.html:275 templates/pret/service.html:430
+#: templates/pret/testimonial.html:172
+msgid "Nos pages"
+msgstr "Nuestras páginas"
+
+#: templates/pret/FAQ.html:227 templates/pret/about.html:295
+#: templates/pret/contact.html:220 templates/pret/index.html:469
+#: templates/pret/pret.html:279 templates/pret/service.html:434
+#: templates/pret/testimonial.html:176
+msgid "FAQ's"
+msgstr "Preguntas Frecuentes"
+
+#: templates/pret/FAQ.html:234 templates/pret/about.html:302
+#: templates/pret/contact.html:227 templates/pret/index.html:476
+#: templates/pret/pret.html:286 templates/pret/service.html:441
+#: templates/pret/testimonial.html:183
+msgid "Nos Clients"
+msgstr "Nuestros Clientes"
+
+#: templates/pret/FAQ.html:299 templates/pret/about.html:367
+#: templates/pret/contact.html:292 templates/pret/index.html:541
+#: templates/pret/pret.html:351 templates/pret/service.html:506
+#: templates/pret/testimonial.html:248
+msgid "Adresse principale"
+msgstr "Dirección principal"
+
+#: templates/pret/FAQ.html:334 templates/pret/about.html:402
+#: templates/pret/contact.html:327 templates/pret/index.html:576
+#: templates/pret/pret.html:386 templates/pret/service.html:541
+#: templates/pret/testimonial.html:283
+msgid "Notre philosophie"
+msgstr "Nuestra filosofía"
+
+#: templates/pret/FAQ.html:335 templates/pret/about.html:403
+#: templates/pret/contact.html:328 templates/pret/index.html:577
+#: templates/pret/pret.html:387 templates/pret/service.html:542
+#: templates/pret/testimonial.html:284
+msgid ""
+"Les besoins de nos clients évoluent constamment, c'est pourquoi nous sommes "
+"toujours à la recherche de nouvelles et meilleures façons de les servir. "
+"Pour ce faire, nous faisons appel à de nouveaux talents."
+msgstr ""
+"Las necesidades de nuestros clientes están en constante evolución, por eso "
+"siempre estamos en busca de nuevas y mejores formas de servirles. Para ello, "
+"recurremos a nuevos talentos."
+
+#: templates/pret/FAQ.html:349 templates/pret/about.html:417
+#: templates/pret/contact.html:342 templates/pret/index.html:591
+#: templates/pret/pret.html:401 templates/pret/service.html:556
+#: templates/pret/testimonial.html:298
+msgid "Tous droits réservés."
+msgstr "Todos los derechos reservados."
+
+#: templates/pret/about.html:149 templates/pret/index.html:177
+msgid ""
+"Bénéficiez de notre crédit rapide, conçu pour vous offrir tous les outils "
+"nécessaires à la réalisation de vos objectifs financiers."
+msgstr ""
+"Benefíciese de nuestro crédito rápido, diseñado para ofrecerle todas las "
+"herramientas necesarias para alcanzar sus objetivos financieros."
+
+#: templates/pret/about.html:158 templates/pret/about.html:209
+#: templates/pret/index.html:186 templates/pret/index.html:239
+msgid "Transparence et Clarté"
+msgstr "Transparencia y Claridad"
+
+#: templates/pret/about.html:159 templates/pret/index.html:187
+msgid ""
+"Profitez de conditions de prêt claires et sans frais cachés, avec une "
+"transparence totale et des explications claires pour que vous puissiez faire "
+"des choix éclairés."
+msgstr ""
+"Disfrute de condiciones de préstamo claras y sin cargos ocultos, con total "
+"transparencia y explicaciones claras para que pueda tomar decisiones "
+"informadas."
+
+#: templates/pret/about.html:168 templates/pret/about.html:210
+#: templates/pret/index.html:196 templates/pret/index.html:240
+msgid "Rapidité et Efficacité"
+msgstr "Rapidez y Eficiencia"
+
+#: templates/pret/about.html:169 templates/pret/index.html:197
+msgid ""
+"Obtenez une réponse rapide à vos demandes de prêt, avec des fonds "
+"disponibles en un temps record pour répondre à vos besoins urgents."
+msgstr ""
+"Obtenga una respuesta rápida a sus solicitudes de préstamo, con fondos "
+"disponibles en un tiempo récord para satisfacer sus necesidades urgentes."
+
+#: templates/pret/about.html:178 templates/pret/index.html:206
+msgid " Accessibilité et Simplicité "
+msgstr " Accesibilidad y Simplicidad "
+
+#: templates/pret/about.html:179
+msgid ""
+"Naviguez facilement grâce à notre interface intuitive, conçue pour vous "
+"offrir une expérience utilisateur fluide et sans complications."
+msgstr ""
+"Navegue fácilmente gracias a nuestra interfaz intuitiva, diseñada para "
+"ofrecerle una experiencia de usuario fluida y sin complicaciones."
+
+#: templates/pret/about.html:188 templates/pret/about.html:212
+#: templates/pret/index.html:216 templates/pret/index.html:242
+msgid "Support Rapide 24/7"
+msgstr "Soporte Rápido 24/7"
+
+#: templates/pret/about.html:189 templates/pret/index.html:217
+msgid ""
+"Notre service client est accessible à tout moment, garantissant une "
+"assistance continue, de jour comme de nuit, pour votre tranquillité d'esprit."
+msgstr ""
+"Nuestro servicio de atención al cliente está disponible en todo momento, "
+"garantizando asistencia continua, tanto de día como de noche, para su "
+"tranquilidad."
+
+#: templates/pret/about.html:206 templates/pret/index.html:236
+msgid "Credis Bank et vous, un prêt qui fait la différence"
+msgstr "Credis Bank y usted, un préstamo que marca la diferencia"
+
+#: templates/pret/about.html:207 templates/pret/index.html:237
+msgid ""
+"Notre philosophie : Les besoins de nos clients évoluent constamment, c'est "
+"pourquoi nous sommes toujours à la recherche de nouvelles et meilleures "
+"façons de les servir. Pour ce faire, nous faisons appel à de nouveaux "
+"talents."
+msgstr ""
+"Nuestra filosofía: Las necesidades de nuestros clientes están en constante "
+"evolución, por eso siempre estamos en busca de nuevas y mejores formas de "
+"servirles. Para ello, recurrimos a nuevos talentos."
+
+#: templates/pret/about.html:211 templates/pret/index.html:241
+#, fuzzy
+#| msgid " Accessibilité et Simplicité "
+msgid "Accessibilité et Simplicité"
+msgstr "Accesibilidad y Simplicidad"
+
+#: templates/pret/about.html:230 templates/pret/index.html:260
+msgid "Années d'expérience"
+msgstr "Años de experiencia"
+
+#: templates/pret/about.html:239 templates/pret/index.html:269
+msgid "Prix ​​reçus"
+msgstr "Premios recibidos"
+
+#: templates/pret/about.html:248 templates/pret/index.html:278
+msgid "Experts Qualifiés"
+msgstr "Expertos Calificados"
+
+#: templates/pret/about.html:257 templates/pret/index.html:287
+msgid "Clients satisfaits"
+msgstr "Clientes satisfechos"
+
+#: templates/pret/contact.html:147
+msgid ""
+"Appelez-nous ou rendez-nous visite quand vous le souhaitez, notre objectif "
+"est de répondre à toutes les questions dans les 24 heures les jours "
+"ouvrables. Nous serons heureux de répondre à vos questions."
+msgstr ""
+"Llámenos o visítenos cuando lo desee, nuestro objetivo es responder a todas "
+"las preguntas dentro de las 24 horas en los días laborables. Estaremos "
+"encantados de responder a sus preguntas."
+
+#: templates/pret/contact.html:153 templates/pret/pret.html:171
+msgid "Nom complet"
+msgstr "Nombre completo"
+
+#: templates/pret/contact.html:159 templates/pret/pret.html:177
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: templates/pret/contact.html:165 templates/pret/pret.html:218
+msgid "Numéro"
+msgstr "Número"
+
+#: templates/pret/contact.html:171 templates/pret/pret.html:236
+msgid "Message"
+msgstr "Mensaje"
+
+#: templates/pret/contact.html:181
+msgid "Envoyer le message"
+msgstr "Enviar el mensaje"
+
+#: templates/pret/email.html:39
+msgid "Email de Confirmation"
+msgstr "Correo de Confirmación"
+
+#: templates/pret/email.html:40
+msgid "Date:"
+msgstr ""
+
+#: templates/pret/email.html:41
+msgid "Votre email:"
+msgstr ""
+
+#: templates/pret/email.html:42
+msgid "Bonjour"
+msgstr "Hola"
+
+#: templates/pret/email.html:44
+msgid ""
+"Merci d'avoir soumis votre demande de prêt ! Nous avons bien reçu toutes les "
+"informations nécessaires pour traiter votre demande."
+msgstr ""
+"¡Gracias por enviar su solicitud de préstamo! Hemos recibido toda la "
+"información necesaria para procesar su solicitud."
+
+#: templates/pret/email.html:46
+msgid "Nous vous confirmons que votre demande est en cours de traitement."
+msgstr "Le confirmamos que su solicitud está en proceso."
+
+#: templates/pret/email.html:48
+msgid ""
+"Notre équipe examine actuellement votre demande et vous contactera dans les "
+"plus brefs délais pour vous fournir plus d'informations et les prochaines "
+"étapes à suivre."
+msgstr ""
+"Nuestro equipo está revisando actualmente su solicitud y se pondrá en "
+"contacto con usted a la brevedad para proporcionarle más información y los "
+"próximos pasos a seguir."
+
+#: templates/pret/email.html:50
+msgid ""
+"Nous vous remercions pour votre confiance et restons à votre disposition "
+"pour toute question supplémentaire."
+msgstr ""
+"Le agradecemos su confianza y estamos a su disposición para cualquier "
+"pregunta adicional."
+
+#: templates/pret/email.html:52
+msgid "Cordialement,"
+msgstr "Atentamente,"
+
+#: templates/pret/email.html:53
+msgid "L'équipe de Credis Bank"
+msgstr "El equipo de Credis Bank"
+
+#: templates/pret/index.html:137 templates/pret/index.html:161
+msgid "Chez Credis Bank"
+msgstr "En Credis Bank"
+
+#: templates/pret/index.html:138 templates/pret/index.html:162
+msgid "Des crédits rapides, pour des vies transformées"
+msgstr "Créditos rápidos para vidas transformadas"
+
+#: templates/pret/index.html:207
+msgid ""
+" Naviguez facilement grâce à notre interface intuitive, conçue pour vous "
+"offrir une expérience utilisateur fluide et sans complications. "
+msgstr ""
+"Navegue fácilmente gracias a nuestra interfaz intuitiva, diseñada para "
+"ofrecerle una experiencia de usuario fluida y sin complicaciones."
+
+#: templates/pret/index.html:303 templates/pret/service.html:149
+msgid "Une gamme d'options de financement à votre disposition"
+msgstr "Una gama de opciones de financiación a su disposición"
+
+#: templates/pret/index.html:317 templates/pret/service.html:163
+msgid "Prêts scolaires"
+msgstr "Préstamos escolares"
+
+#: templates/pret/index.html:319 templates/pret/service.html:165
+msgid ""
+"Après tout, une bonne éducation est le meilleur moyen d’assurer votre "
+"avenir. C'est pourquoi notre équipe fera tout son possible pour vous aider. "
+"Vous êtes étudiant de tout âge. Nous pouvons vous aider à financer vos "
+"études ou vos stages. Vous manquez d'argent pour financer les dépenses "
+"prévues et imprévues de vos enfants ? Un prêt scolaire est la seule réponse "
+"à votre situation."
+msgstr ""
+"Después de todo, una buena educación es la mejor manera de asegurar su "
+"futuro. Por eso, nuestro equipo hará todo lo posible para ayudarle. Si usted "
+"es estudiante de cualquier edad, podemos ayudarle a financiar sus estudios o "
+"prácticas. ¿Le falta dinero para financiar los gastos previstos e "
+"imprevistos de sus hijos? Un préstamo escolar es la única solución a su "
+"situación."
+
+#: templates/pret/index.html:336 templates/pret/service.html:182
+msgid "Crédit d'investissement"
+msgstr "Crédito de inversión"
+
+#: templates/pret/index.html:338 templates/pret/service.html:184
+msgid ""
+"Vous êtes professionnel, entrepreneur ou commerçant ? Vous avez un projet à "
+"long terme qui nécessite des ressources importantes ? Alors cette formule "
+"est faite pour vous. Le crédit d'investissement est le produit idéal pour "
+"les clients qui utilisent un buffet à effet de levier (crédit "
+"d'investissement) basé sur des obligations financières et qui envisagent de "
+"constituer leur portefeuille sur le long terme."
+msgstr ""
+"¿Es usted profesional, emprendedor o comerciante? ¿Tiene un proyecto a largo "
+"plazo que requiere recursos importantes? Entonces esta fórmula es para "
+"usted. El crédito de inversión es el producto ideal para los clientes que "
+"utilizan un buffet apalancado (crédito de inversión) basado en obligaciones "
+"financieras y que buscan construir su cartera a largo plazo."
+
+#: templates/pret/index.html:354 templates/pret/service.html:200
+msgid "Prêt automobile"
+msgstr "Préstamo para automóvil"
+
+#: templates/pret/index.html:356 templates/pret/service.html:202
+msgid ""
+"Un crédit automobile est un prêt pour l’achat d’une voiture neuve ou "
+"d’occasion. Le type de prêt est activé lorsque vous êtes prêt à acheter une "
+"moto. C’est là qu’il y a une différence entre un prêt personnel et le but "
+"est d’ajouter de la trésorerie. Ainsi, un contrat de prêt travaux n’est pas "
+"accepté par un banquier comme un contrat personnel."
+msgstr ""
+"Un préstamo para automóvil es un crédito para la compra de un coche nuevo o "
+"de segunda mano. Este tipo de préstamo se activa cuando está listo para "
+"comprar una moto. Aquí es donde hay una diferencia entre un préstamo "
+"personal y el objetivo de agregar liquidez. Así, un contrato de préstamo "
+"para obras no es aceptado por un banquero como un contrato personal."
+
+#: templates/pret/index.html:372 templates/pret/service.html:218
+msgid "Prêts immobiliers"
+msgstr "Préstamos inmobiliarios"
+
+#: templates/pret/index.html:374 templates/pret/service.html:220
+msgid ""
+"Nous avons cette formule pour des projets de rénovation, de construction ou "
+"immobiliers. En ce qui concerne les conditions, nous sommes les seuls sur le "
+"marché financier. Le prêt immobilier est garanti pour l'achat d'une "
+"résidence principale ou secondaire ou pour le financement d'un "
+"investissement local avec des surprises toutes prêtes. Inscrivez-vous "
+"maintenant et nous traiterons votre demande gratuitement."
+msgstr ""
+"Tenemos esta fórmula para proyectos de renovación, construcción o "
+"inmobiliarios. En cuanto a las condiciones, somos los únicos en el mercado "
+"financiero. El préstamo inmobiliario está garantizado para la compra de una "
+"residencia principal o secundaria o para financiar una inversión local con "
+"sorpresas listas. Regístrese ahora y procesaremos su solicitud de forma "
+"gratuita."
+
+#: templates/pret/pret.html:132 templates/pret/pret.html:136
+msgid "Demande de prêt"
+msgstr "Solicitud de préstamo"
+
+#: templates/pret/pret.html:164
+msgid ""
+"Veuillez remplir soigneusement le formulaire ci-dessous. Vous recevrez une "
+"réponse dans quelques minutes"
+msgstr ""
+"Por favor, complete cuidadosamente el formulario a continuación. Recibirá "
+"una respuesta en unos minutos."
+
+#: templates/pret/pret.html:211
+msgid "Code Pays"
+msgstr "Código del país"
+
+#: templates/pret/pret.html:224
+msgid "Montant du prêt"
+msgstr "Monto del préstamo"
+
+#: templates/pret/pret.html:230
+msgid "Durées de Remboursement"
+msgstr "Plazos de reembolso"
+
+#: templates/pret/pret.html:240
+msgid "Envoyer votre demande"
+msgstr "Enviar su solicitud"
+
+#: templates/pret/service.html:245
+msgid "Prêt personnel"
+msgstr "Préstamo personal"
+
+#: templates/pret/service.html:247
+msgid ""
+"Un prêt personnel pour répondre à vos besoins personnels. C'est la bonne "
+"formule pour vous. Nous vous proposons un prêt personnel en fonction de "
+"votre capacité de remboursement. Si vous ne possédez pas de terrain, vous "
+"avez déjà sollicité nos prêts personnels pour répondre à vos besoins "
+"financiers à des taux attractifs."
+msgstr ""
+"Un préstamo personal para satisfacer sus necesidades personales. Es la "
+"fórmula adecuada para usted. Le ofrecemos un préstamo personal en función de "
+"su capacidad de reembolso. Si no posee terreno, ya ha solicitado nuestros "
+"préstamos personales para satisfacer sus necesidades financieras a tasas "
+"atractivas."
+
+#: templates/pret/service.html:265
+msgid "Consolidation de dettes"
+msgstr "Consolidación de deudas"
+
+#: templates/pret/service.html:268
+msgid ""
+"La consolidation de dettes pourrait être la solution pour vous. Que se passe-"
+"t-il lorsque vous additionnez toutes les dettes ? Voici une solution simple "
+"et peu coûteuse. Le principe de la consolidation de dettes est très simple. "
+"Un seul prêt vous sera proposé pour rembourser toutes vos dettes. Vous "
+"n’avez à payer qu’une fois par mois et vous pouvez bénéficier d’un taux "
+"d’intérêt réduit, surtout si vous consolidez vos dettes de carte de crédit."
+msgstr ""
+"La consolidación de deudas podría ser la solución para usted. ¿Qué pasa "
+"cuando suma todas las deudas? Aquí hay una solución simple y económica. El "
+"principio de la consolidación de deudas es muy simple. Se le ofrecerá un "
+"solo préstamo para pagar todas sus deudas. Solo tendrá que pagar una vez al "
+"mes y puede beneficiarse de una tasa de interés reducida, especialmente si "
+"consolida sus deudas de tarjeta de crédito."
+
+#: templates/pret/service.html:284
+msgid "Prêt Vacances"
+msgstr "Préstamo para vacaciones"
+
+#: templates/pret/service.html:287
+msgid ""
+"Vous rêvez de partir en vacances mais vous avez besoin d'un coup de pouce "
+"financier pour réaliser votre projet ? Notre prêt vacances est la solution "
+"parfaite pour vous. Que vous souhaitiez explorer de nouvelles destinations "
+"ou vous offrir une escapade relaxante, ce prêt vous offre une flexibilité "
+"pour planifier et financer vos voyages sans stress financier. Avec des "
+"conditions adaptées à vos besoins et des remboursements flexibles, nous vous "
+"aidons à transformer vos rêves de vacances en réalité."
+msgstr ""
+"¿Sueña con irse de vacaciones pero necesita un impulso financiero para hacer "
+"realidad su proyecto? Nuestro préstamo para vacaciones es la solución "
+"perfecta para usted. Ya sea que desee explorar nuevos destinos o disfrutar "
+"de una escapada relajante, este préstamo le ofrece flexibilidad para "
+"planificar y financiar sus viajes sin estrés financiero. Con condiciones "
+"adaptadas a sus necesidades y pagos flexibles, le ayudamos a convertir sus "
+"sueños de vacaciones en realidad."
+
+#: templates/pret/service.html:303
+msgid "Prêt Médical"
+msgstr "Préstamo médico"
+
+#: templates/pret/service.html:306
+msgid ""
+"Des frais médicaux imprévus peuvent survenir à tout moment, nécessitant des "
+"ressources financières rapides. Avec notre prêt médical, vous pouvez couvrir "
+"les coûts de traitements, d'hospitalisations ou de soins spécialisés sans "
+"compromettre votre bien-être financier. Cette solution est idéale pour ceux "
+"qui souhaitent préserver leur santé tout en maintenant leur stabilité "
+"financière."
+msgstr ""
+"Los gastos médicos imprevistos pueden surgir en cualquier momento, "
+"requiriendo recursos financieros rápidos. Con nuestro préstamo médico, puede "
+"cubrir los costos de tratamientos, hospitalizaciones o cuidados "
+"especializados sin comprometer su bienestar financiero. Esta solución es "
+"ideal para aquellos que desean preservar su salud mientras mantienen su "
+"estabilidad financiera."
+
+#: templates/pret/service.html:324
+msgid "Ce que les gens disent de nous"
+msgstr "Lo que dicen de nosotros"
+
+#: templates/pret/service.html:326
+msgid ""
+"Nous vous aidons à voir le monde différemment, à découvrir des opportunités "
+"que vous n'auriez peut-être jamais imaginées et à obtenir des résultats qui "
+"comblent le fossé entre ce qui est et ce qui peut être."
+msgstr ""
+"Le ayudamos a ver el mundo de manera diferente, a descubrir oportunidades "
+"que quizás nunca habría imaginado y a obtener resultados que llenan la "
+"brecha entre lo que es y lo que puede ser."
+
+#: templates/pret/service.html:348
+msgid ""
+"Très bon service et le prêt a été traité très rapidement. C'était bien car "
+"j'ai vu une belle voiture à vendre ! La procédure de candidature était très "
+"simple, tout pouvait se faire numériquement. Les conditions étaient très "
+"claires. Je pourrais également transférer un autre prêt à un taux d’intérêt "
+"inférieur."
+msgstr ""
+"¡Muy buen servicio y el préstamo se procesó muy rápidamente! Fue bueno "
+"porque vi un coche bonito en venta. El proceso de solicitud fue muy simple, "
+"todo se hizo digitalmente. Las condiciones eran muy claras. También podría "
+"transferir otro préstamo a una tasa de interés más baja."
+
+#: templates/pret/service.html:372
+msgid ""
+"J'ai été très impressionné par la facilité avec laquelle il était possible "
+"de demander un prêt et par la rapidité avec laquelle les offres d'aide "
+"étaient reçues. Le temps entre la demande initiale et le dépôt du prêt sur "
+"mon compte n’était que de quelques heures."
+msgstr ""
+"Quedé muy impresionado con la facilidad con la que se podía solicitar un "
+"préstamo y la rapidez con la que se recibieron las ofertas de ayuda. El "
+"tiempo entre la solicitud inicial y el depósito del préstamo en mi cuenta "
+"fue de solo unas horas."
+
+#: templates/pret/service.html:396
+msgid ""
+"Conseillers financiers qualifiés, leur professionnalisme reste innovant et "
+"leur rapidité dans l'octroi du crédit est leur plus grand atout. Faites-leur "
+"confiance."
+msgstr ""
+"Asesores financieros calificados, su profesionalismo sigue siendo innovador "
+"y su rapidez en la concesión del crédito es su mayor activo. Confíe en ellos."
